@@ -1,0 +1,2 @@
+C:\Users\dwoodard\Source\Repos\dwoodardAlliance\Productivity_ASPWeb\Productivity_ASPWeb\obj\Debug\Productivity_ASPWeb.csprojAssemblyReference.cache
+C:\Users\dwoodard\Source\Repos\dwoodardAlliance\Productivity_ASPWeb\Productivity_ASPWeb\obj\Debug\Productivity_ASPWeb.csproj.CoreCompileInputs.cache
